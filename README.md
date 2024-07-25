@@ -31,3 +31,6 @@ Tecnologias Utilizadas
 <li>React</li>
 <li>Axios</li>
 <li>CSS</li>
+
+<h2>Site em funcionamento</h2>
+https://challenge-hub-advice-generator-app.vercel.app/
